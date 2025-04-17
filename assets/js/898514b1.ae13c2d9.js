@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvolatile=self.webpackChunkvolatile||[]).push([[9067],{9187:s=>{s.exports=JSON.parse('{"tags":[{"label":"Releases","permalink":"/docs/tags/releases","count":1},{"label":"Docusaurus","permalink":"/docs/tags/docusaurus","description":"\u4e0e Docusaurus \u6846\u67b6\u76f8\u5173\u7684\u6587\u6863","count":1}]}')}}]);

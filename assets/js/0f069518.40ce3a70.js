@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvolatile=self.webpackChunkvolatile||[]).push([[8238],{4950:e=>{e.exports=JSON.parse('{"tag":{"label":"Releases","permalink":"/docs/tags/releases","allTagsPath":"/docs/tags","count":1,"items":[{"id":"my-doc","title":"Title","description":"Content","permalink":"/docs/my-doc"}],"unlisted":false}}')}}]);
